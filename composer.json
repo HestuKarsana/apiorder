@@ -1,0 +1,7 @@
+{
+  "name" : "html2pdf/codeigniter",
+  "require": {
+    "nowakowskir/php-jwt": "^1.1",
+    "dompdf/dompdf": "^0.8.3"
+  }
+}
